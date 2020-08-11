@@ -1,0 +1,18 @@
+Database credentials:
+
+db name = united_ukc_careers
+
+db username = united_admin
+
+db password  = V{sER7yqe~Ys
+
+---------------------------------------------------
+
+
+wordpress credentials:
+
+username = united_careers
+
+password = HyNCQ6kabl!YKP&rVE
+
+http://www.unitedkenyaclub.com/careers/wp-login.php
